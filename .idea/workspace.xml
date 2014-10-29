@@ -2,15 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81829967-21a2-47d7-8d65-278e5db7c932" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/seespeak/IMG_2895-small.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/seespeak/IMG_2895.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/seespeak/seespeak-screen.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/seespeak/seespeak-unify-grey-green-v2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/seespeak/seespeak_unify_faces.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/seespeak/tablet_on_stand_v2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index-original.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/custom.css" afterPath="$PROJECT_DIR$/assets/css/custom.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="seespeak.github.io.iws" />
@@ -37,8 +28,8 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8489209" vertical-offset="1178" max-vertical-offset="17415">
-              <caret line="108" column="37" selection-start-line="108" selection-start-column="37" selection-end-line="108" selection-end-column="37" />
+            <state vertical-scroll-proportion="0.64928055" vertical-offset="16934" max-vertical-offset="17580">
+              <caret line="1049" column="25" selection-start-line="1049" selection-start-column="25" selection-end-line="1049" selection-end-column="25" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -939,8 +930,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8489209" vertical-offset="1178" max-vertical-offset="17415">
-          <caret line="108" column="37" selection-start-line="108" selection-start-column="37" selection-end-line="108" selection-end-column="37" />
+        <state vertical-scroll-proportion="0.64928055" vertical-offset="16934" max-vertical-offset="17580">
+          <caret line="1049" column="25" selection-start-line="1049" selection-start-column="25" selection-end-line="1049" selection-end-column="25" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
