@@ -2,3 +2,16 @@
 .da-slider{
 	background: transparent url(../img/1.jpg) repeat 0% 0%;
 }
+
+@media (max-width: 900px) {
+   /*Slider Parallax*/
+   .da-slide .da-img {
+      display:block;
+   }
+}
+
+@media (max-width: 450px) {
+   .da-slide p {
+      display:block;
+   }
+}
