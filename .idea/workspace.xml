@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81829967-21a2-47d7-8d65-278e5db7c932" name="Default" comment="" />
+    <list default="true" id="81829967-21a2-47d7-8d65-278e5db7c932" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/One-Page/index.html" afterPath="$PROJECT_DIR$/One-Page/index.html" />
+    </list>
     <ignored path="seespeak.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,8 +28,8 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/One-Page/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.33169532" vertical-offset="2400" max-vertical-offset="16350">
-              <caret line="160" column="76" selection-start-line="160" selection-start-column="73" selection-end-line="160" selection-end-column="76" />
+            <state vertical-scroll-proportion="0.5196305" vertical-offset="3165" max-vertical-offset="16350">
+              <caret line="214" column="75" selection-start-line="214" selection-start-column="75" selection-end-line="214" selection-end-column="75" />
               <folding>
                 <element signature="n#style#0;n#img#1;n#a#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -1005,8 +1007,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/One-Page/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33169532" vertical-offset="2400" max-vertical-offset="16350">
-          <caret line="160" column="76" selection-start-line="160" selection-start-column="73" selection-end-line="160" selection-end-column="76" />
+        <state vertical-scroll-proportion="0.5196305" vertical-offset="3165" max-vertical-offset="16350">
+          <caret line="214" column="75" selection-start-line="214" selection-start-column="75" selection-end-line="214" selection-end-column="75" />
           <folding>
             <element signature="n#style#0;n#img#1;n#a#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
