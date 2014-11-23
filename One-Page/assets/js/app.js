@@ -89,10 +89,17 @@ var App = function () {
     function handleHeader() {
         //jQuery to collapse the navbar on scroll
         $(window).scroll(function() {
-            if ($(".navbar").offset().top > 150) {
+            if ($(".navbar").offset().top > 270) {
+//            if ($(".navbar").offset().top > 250) {
                 $(".navbar-fixed-top").addClass("top-nav-collapse");
+                $("#brand-image-green").show();
+                $("#brand-image-white").hide();
+                $("#brand-image-green").addClass("test")
             } else {
                 $(".navbar-fixed-top").removeClass("top-nav-collapse");
+                $("#brand-image-green").hide();
+                $("#brand-image-white").show();
+                $("#brand-image-green").removeClass("test")
             }
         });
 

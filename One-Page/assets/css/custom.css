@@ -1,1 +1,24 @@
 /* Add here all your css styles (customizations) */
+.fullscreenbanner-container {
+	width:100%;
+	position:relative;
+	padding:0;
+}
+
+.fullscreenbanner{
+	width:100%;
+	position:relative;
+}
+
+.navbar-brand {
+    padding:0px;
+}
+
+
+@media (max-width: 768px) {
+	a {
+		padding: 0;
+	}
+}
+
+
