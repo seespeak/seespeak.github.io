@@ -152,4 +152,24 @@ color: #555;
 .rs-caption-1:after, .rs-caption-1:before {
     color: #555;
 }
+.contacts-in headline h2 {
 */
+.contacts-in h2 {
+color: #fff;
+}
+
+.contacts-in p {
+color: #fff;
+}
+
+.copyright {
+font-size: 12px;
+padding: 11px 0 7px;
+background: #3e4753;
+border-top: solid 1px #777;
+}
+
+.copyright p {
+color: #dadada;
+margin-top: 12px;
+}
