@@ -154,6 +154,11 @@ color: #555;
 }
 .contacts-in headline h2 {
 */
+
+.rs-caption-2:after {
+    height: 0px;
+}
+
 .contacts-in h2 {
 color: #fff;
 }
