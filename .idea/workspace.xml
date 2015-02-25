@@ -2,6 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81829967-21a2-47d7-8d65-278e5db7c932" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/seespeak/IMG_2895-small.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/seespeak/IMG_2895.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/seespeak/IMG_7061FB_1024.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/seespeak/IMG_7061FB_1024.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/seespeak/IMG_7061FB_with_screen_600.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/seespeak/IMG_7061FB_with_screen_trans.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/seespeak/IMG_7063FB.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/seespeak/IMG_7063FB_1024.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/seespeak/IMG_7063FB_1024.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/seespeak/IMG_7068FB.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/seespeak/IMG_7077FB.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/seespeak/IMG_7077FB_1024.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/seespeak/IMG_7077FB_1024.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/seespeak/IMG_7077FB_1024.xcf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/seespeak/seespeak-screen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/seespeak/stock-photo-189269810-senior-lady-relaxing-at-home-with-screen.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/seespeak/stock-photo-189269810-senior-lady-relaxing-at-home-with-screen.xcf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/seespeak/stock-photo-189269810-senior-lady-relaxing-at-home.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/seespeak/stock-photo-19635728-family.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/seespeak/stock-photo-37346712-parents.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/seespeak/stock-photo-43074012-distance-made-bearable.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/seespeak/stock-photo-49036088-and-touch-here.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/seespeak/stock-photo-51783896-staying-entertained.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/seespeak/tablet_on_stand_200.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/seespeak/tablet_on_stand_300.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/seespeak/tablet_on_stand_v2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/seespeak/white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/seespeak/white.xcf" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/One-Page/index.html" afterPath="$PROJECT_DIR$/One-Page/index.html" />
     </list>
     <ignored path="seespeak.github.io.iws" />
@@ -28,8 +56,8 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/One-Page/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.5110782" vertical-offset="10302" max-vertical-offset="18885">
-              <caret line="722" column="43" selection-start-line="722" selection-start-column="43" selection-end-line="722" selection-end-column="43" />
+            <state vertical-scroll-proportion="0.33235726" vertical-offset="1798" max-vertical-offset="18915">
+              <caret line="131" column="60" selection-start-line="131" selection-start-column="54" selection-end-line="131" selection-end-column="60" />
               <folding>
                 <element signature="n#style#0;n#img#1;n#a#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -69,13 +97,6 @@
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="stock-photo-19635728-family.jpg" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/img/seespeak/stock-photo-19635728-family.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
           </provider>
         </entry>
       </file>
@@ -162,10 +183,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1" />
-    <option name="y" value="144" />
+    <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="842" />
+    <option name="height" value="874" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -277,24 +297,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="seespeak" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="seespeak.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="seespeak.github.io" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -649,7 +651,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="144" width="1280" height="842" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="874" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -668,7 +670,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2980614" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3069467" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -736,17 +738,7 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/seespeak/IMG_2895.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/plugins/parallax-slider/img/1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/seespeak/IMG_2895-small.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -867,11 +859,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/seespeak/IMG_7063FB.JPG">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/One-Page/assets/css/plugins.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8445">
@@ -988,11 +975,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/seespeak/stock-photo-19635728-family.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-17.430313" vertical-offset="10215" max-vertical-offset="18630">
@@ -1040,8 +1022,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/One-Page/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.5110782" vertical-offset="10302" max-vertical-offset="18885">
-          <caret line="722" column="43" selection-start-line="722" selection-start-column="43" selection-end-line="722" selection-end-column="43" />
+        <state vertical-scroll-proportion="0.33235726" vertical-offset="1798" max-vertical-offset="18915">
+          <caret line="131" column="60" selection-start-line="131" selection-start-column="54" selection-end-line="131" selection-end-column="60" />
           <folding>
             <element signature="n#style#0;n#img#1;n#a#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
