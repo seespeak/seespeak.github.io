@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81829967-21a2-47d7-8d65-278e5db7c932" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/googletagmanager.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/customer_services.html" afterPath="$PROJECT_DIR$/customer_services.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/purchase_cancel.html" afterPath="$PROJECT_DIR$/purchase_cancel.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/purchase_success.html" afterPath="$PROJECT_DIR$/purchase_success.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="seespeak.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,11 +30,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="118.208336" vertical-offset="14372" max-vertical-offset="24375">
-              <caret line="769" column="28" selection-start-line="769" selection-start-column="28" selection-end-line="769" selection-end-column="28" />
+            <state vertical-scroll-proportion="40.725525" vertical-offset="675" max-vertical-offset="24210">
+              <caret line="1577" column="53" selection-start-line="1577" selection-start-column="53" selection-end-line="1577" selection-end-column="53" />
               <folding />
             </state>
           </provider>
@@ -56,21 +60,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/css/app.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="39195" max-vertical-offset="41400">
-              <caret line="2613" column="3" selection-start-line="2613" selection-start-column="3" selection-end-line="2613" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="purchase_success.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="purchase_success.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/purchase_success.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3146853" vertical-offset="240" max-vertical-offset="2115">
-              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+            <state vertical-scroll-proportion="-15.625" vertical-offset="870" max-vertical-offset="2055">
+              <caret line="83" column="0" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -79,7 +73,7 @@
       <file leaf-file-name="header.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/header.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.958333" vertical-offset="403" max-vertical-offset="1215">
+            <state vertical-scroll-proportion="-1.9583334" vertical-offset="643" max-vertical-offset="1215">
               <caret line="46" column="28" selection-start-line="46" selection-start-column="28" selection-end-line="46" selection-end-column="28" />
               <folding />
             </state>
@@ -89,10 +83,22 @@
       <file leaf-file-name="customer_services.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/customer_services.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.4166665" vertical-offset="6557" max-vertical-offset="8340">
-              <caret line="449" column="12" selection-start-line="449" selection-start-column="12" selection-end-line="449" selection-end-column="12" />
+            <state vertical-scroll-proportion="-41.958332" vertical-offset="6898" max-vertical-offset="8175">
+              <caret line="527" column="35" selection-start-line="527" selection-start-column="35" selection-end-line="527" selection-end-column="35" />
               <folding>
-                <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="googletagmanager.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/googletagmanager.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="210">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="n#style#0;n#iframe#0;n#noscript#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -101,8 +107,8 @@
       <file leaf-file-name="purchase_cancel.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/purchase_cancel.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="9.375" vertical-offset="300" max-vertical-offset="1080">
-              <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+            <state vertical-scroll-proportion="-16.875" vertical-offset="0" max-vertical-offset="990">
+              <caret line="27" column="6" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -149,14 +155,15 @@
         <option value="$PROJECT_DIR$/assets/css/custom.css" />
         <option value="$PROJECT_DIR$/One-Page/assets/css/custom.css" />
         <option value="$PROJECT_DIR$/One-Page/index.html" />
-        <option value="$PROJECT_DIR$/purchase_success.html" />
-        <option value="$PROJECT_DIR$/purchase_cancel.html" />
         <option value="$PROJECT_DIR$/legal.html" />
         <option value="$PROJECT_DIR$/footer.html" />
         <option value="$PROJECT_DIR$/header.html" />
         <option value="$PROJECT_DIR$/testing.html" />
-        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/googletagmanager.html" />
         <option value="$PROJECT_DIR$/customer_services.html" />
+        <option value="$PROJECT_DIR$/purchase_success.html" />
+        <option value="$PROJECT_DIR$/purchase_cancel.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -672,7 +679,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="1260" max-vertical-offset="5910">
           <caret line="84" column="34" selection-start-line="84" selection-start-column="34" selection-end-line="84" selection-end-column="34" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -964,44 +971,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/header.html">
+    <entry file="file://$PROJECT_DIR$/googletagmanager.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.958333" vertical-offset="403" max-vertical-offset="1215">
-          <caret line="46" column="28" selection-start-line="46" selection-start-column="28" selection-end-line="46" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="118.208336" vertical-offset="14372" max-vertical-offset="24375">
-          <caret line="769" column="28" selection-start-line="769" selection-start-column="28" selection-end-line="769" selection-end-column="28" />
-          <folding />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="572">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#noscript#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/customer_services.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.4166665" vertical-offset="6557" max-vertical-offset="8340">
-          <caret line="449" column="12" selection-start-line="449" selection-start-column="12" selection-end-line="449" selection-end-column="12" />
+        <state vertical-scroll-proportion="-41.958332" vertical-offset="6898" max-vertical-offset="8175">
+          <caret line="527" column="35" selection-start-line="527" selection-start-column="35" selection-end-line="527" selection-end-column="35" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/purchase_cancel.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="9.375" vertical-offset="300" max-vertical-offset="1080">
-          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+        <state vertical-scroll-proportion="-16.875" vertical-offset="0" max-vertical-offset="990">
+          <caret line="27" column="6" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.9583334" vertical-offset="643" max-vertical-offset="1215">
+          <caret line="46" column="28" selection-start-line="46" selection-start-column="28" selection-end-line="46" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/purchase_success.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3146853" vertical-offset="240" max-vertical-offset="2115">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        <state vertical-scroll-proportion="-15.625" vertical-offset="870" max-vertical-offset="2055">
+          <caret line="83" column="0" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="40.725525" vertical-offset="675" max-vertical-offset="24210">
+          <caret line="1577" column="53" selection-start-line="1577" selection-start-column="53" selection-end-line="1577" selection-end-column="53" />
           <folding />
         </state>
       </provider>

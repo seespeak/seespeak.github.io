@@ -62,6 +62,9 @@
 </head>
 
 <body>
+<div id="googletagmanager">
+    <!-- jquery populates this div -->
+</div>
 
 <div id="header">
     <!-- jquery populates header -->
@@ -516,33 +519,19 @@
         App.init();
     });
 
-
-
-
-
-
-
-
 </script>
 <!--[if lt IE 9]>
 <script src="assets/plugins/respond.js"></script>
 <script src="assets/plugins/html5shiv.js"></script>
 <![endif]-->
 
-<!-- inserting content into header and footer -->
+<!-- inserting content into header, footer, etc -->
 <script>
 $(function(){
 $("#header").load("header.html");
 $("#footer").load("footer.html");
+$("#googletagmanager").load("googletagmanager.html");
 });
-
-
-
-
-
-
-
-
 </script>
 
 </body>
