@@ -2,894 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81829967-21a2-47d7-8d65-278e5db7c932" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/busybox-1.22.1.tar.bz2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/portfolio_text_blocks.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/profile.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/profile_comments.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/profile_history.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/profile_me.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/profile_projects.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/profile_settings.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/profile_users.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/ajax/loadMore.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/ajax/project1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/ajax/project10.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/ajax/project11.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/ajax/project12.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/ajax/project13.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/ajax/project2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/ajax/project3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/ajax/project4.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/ajax/project5.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/ajax/project6.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/ajax/project7.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/ajax/project8.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/ajax/project9.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/css/app.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/css/custom.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/css/plugins.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/css/plugins/animate.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/css/plugins/box-shadows.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/bg/bg1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/bg/bg2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/bg/bg3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/clients/baderbrau.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/clients/bellfield.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/clients/district-karaoke.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/clients/ea-canada.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/clients/emirates.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/clients/fred-perry.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/clients/general-electric.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/clients/grifting-tree.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/clients/hermes.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/clients/inspiring.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/clients/much-more.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/clients/national-geographic.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/clients/ucweb.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/contents/faces.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/contents/img1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/contents/img3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/contents/img4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/icons/social/amazon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/icons/social/behance.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/icons/social/blogger.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/icons/social/deviantart.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/icons/social/dribbble.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/icons/social/dropbox.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/icons/social/evernote.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/icons/social/facebook.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/icons/social/forrst.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/icons/social/github.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/icons/social/googleplus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/icons/social/instagram.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/icons/social/jolicloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/icons/social/last-fm.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/icons/social/linkedin.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/icons/social/picasa.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/icons/social/pintrest.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/icons/social/rss.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/icons/social/skype.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/icons/social/spotify.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/icons/social/stumbleupon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/icons/social/tumblr.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/icons/social/twitter.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/icons/social/vimeo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/icons/social/vk.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/icons/social/wordpress.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/icons/social/xing.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/icons/social/yahoo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/icons/social/youtube.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/mockup/img1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/mockup/img2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/mockup/img4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/mockup/mockup.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/mockup/mockup1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/patterns/1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/patterns/2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/patterns/3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/patterns/4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/patterns/5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/patterns/gridtile.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/patterns/gridtile_3x3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/patterns/gridtile_3x3_white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/patterns/gridtile_white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/portfolio/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/portfolio/10.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/portfolio/10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/portfolio/11.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/portfolio/11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/portfolio/12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/portfolio/13.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/portfolio/2.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/portfolio/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/portfolio/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/portfolio/4.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/portfolio/4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/portfolio/5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/portfolio/6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/portfolio/7.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/portfolio/7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/portfolio/8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/portfolio/9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/sliders/revolution/bg1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/sliders/revolution/bg2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/sliders/revolution/bg3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/team/img1-md.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/team/img1-sm.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/team/img2-md.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/team/img2-sm.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/team/img3-md.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/team/img3-sm.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/img/team/img5-md.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/js/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/js/plugins/circles-master.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/js/plugins/owl-carousel.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/back-to-top.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/bootstrap/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/bootstrap/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/bootstrap/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/bootstrap/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/cubeportfolio/css/cubeportfolio.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/cubeportfolio/css/cubeportfolio.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/cubeportfolio/img/cbp-loading-popup.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/cubeportfolio/img/cbp-loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/cubeportfolio/img/cbp-sprite.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/cubeportfolio/img/cbp-sprite.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/cubeportfolio/js/jquery.cubeportfolio.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/cubeportfolio/js/jquery.cubeportfolio.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/documentation/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/documentation/layout/css/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/documentation/layout/css/prettify.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/documentation/layout/css/reset.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/documentation/layout/images/arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/documentation/layout/js/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/documentation/layout/js/prettify.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/blog-posts/css/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/blog-posts/css/reset.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/blog-posts/img/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/blog-posts/img/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/blog-posts/img/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/blog-posts/img/4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/blog-posts/img/5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/blog-posts/img/6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/blog-posts/img/7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/blog-posts/img/8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/blog-posts/img/9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/blog-posts/img/small.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/blog-posts/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/blog-posts/js/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/ajax/loadMore.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/css/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/css/reset.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/10big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/11big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/12big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/13.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/13big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/14.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/14big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/15.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/15big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/16.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/16big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/17.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/17big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/18.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/18big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/19.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/19big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/1big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/20.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/20big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/21.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/21big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/22.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/22big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/23.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/23big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/24.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/24big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/25.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/25big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/26.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/26big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/27.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/27big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/28.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/28big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/29.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/29big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/2big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/30.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/30big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/31.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/31big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/32.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/32big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/33.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/33big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/34.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/34big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/35.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/35big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/36.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/36big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/3big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/4big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/5big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/6big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/7big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/8big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/9big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/big.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/img/small.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/full-screen/js/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/ajax/loadMore.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/ajax/project1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/ajax/project10.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/ajax/project11.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/ajax/project12.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/ajax/project13.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/ajax/project14.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/ajax/project15.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/ajax/project16.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/ajax/project17.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/ajax/project18.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/ajax/project2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/ajax/project3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/ajax/project4.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/ajax/project5.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/ajax/project6.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/ajax/project7.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/ajax/project8.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/ajax/project9.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/css/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/css/reset.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/10big-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/10big-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/10big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/11big-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/11big-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/11big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/12big-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/12big-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/12big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/13.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/13big-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/13big-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/13big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/14.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/14big-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/14big-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/14big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/15.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/15big-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/15big-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/15big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/16.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/16big-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/16big-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/16big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/17.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/17big-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/17big-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/17big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/18.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/18big-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/18big-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/18big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/1big-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/1big-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/1big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/2big-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/2big-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/2big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/3big-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/3big-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/3big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/4big-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/4big-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/4big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/5big-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/5big-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/5big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/6big-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/6big-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/6big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/7big-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/7big-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/7big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/8big-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/8big-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/8big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/9big-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/9big-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/9big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/big.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/img/small.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/juicy-projects/js/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/lightbox-gallery/ajax/loadMore.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/lightbox-gallery/ajax/project1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/lightbox-gallery/ajax/project10.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/lightbox-gallery/ajax/project11.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/lightbox-gallery/ajax/project12.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/lightbox-gallery/ajax/project13.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/lightbox-gallery/ajax/project2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/lightbox-gallery/ajax/project3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/lightbox-gallery/ajax/project4.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/lightbox-gallery/ajax/project5.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/lightbox-gallery/ajax/project6.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/lightbox-gallery/ajax/project7.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/lightbox-gallery/ajax/project8.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/lightbox-gallery/ajax/project9.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/lightbox-gallery/css/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/lightbox-gallery/css/reset.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/lightbox-gallery/img/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/lightbox-gallery/img/10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/lightbox-gallery/img/10big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/lightbox-gallery/img/11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/lightbox-gallery/img/11big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/lightbox-gallery/img/12.big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/lightbox-gallery/img/12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/lightbox-gallery/img/12big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/lightbox-gallery/img/13.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/lightbox-gallery/img/13big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/lightbox-gallery/img/1big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/lightbox-gallery/img/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/lightbox-gallery/img/2big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/lightbox-gallery/img/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/lightbox-gallery/img/3big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/lightbox-gallery/img/4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/lightbox-gallery/img/4big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/lightbox-gallery/img/5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/lightbox-gallery/img/5big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/lightbox-gallery/img/6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/lightbox-gallery/img/6big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/lightbox-gallery/img/7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/lightbox-gallery/img/7big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/lightbox-gallery/img/8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/lightbox-gallery/img/8big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/lightbox-gallery/img/9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/lightbox-gallery/img/9big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/lightbox-gallery/img/big.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/lightbox-gallery/img/small.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/lightbox-gallery/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/lightbox-gallery/js/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/masonry/css/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/masonry/css/reset.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/masonry/img/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/masonry/img/10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/masonry/img/10big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/masonry/img/11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/masonry/img/11big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/masonry/img/12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/masonry/img/12big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/masonry/img/1big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/masonry/img/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/masonry/img/2big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/masonry/img/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/masonry/img/3big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/masonry/img/4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/masonry/img/4big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/masonry/img/5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/masonry/img/5big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/masonry/img/6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/masonry/img/6big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/masonry/img/7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/masonry/img/7big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/masonry/img/8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/masonry/img/8big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/masonry/img/9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/masonry/img/9big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/masonry/img/big.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/masonry/img/small-height1.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/masonry/img/small-height2.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/masonry/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/masonry/js/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/meet-the-team/ajax/member1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/meet-the-team/ajax/member2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/meet-the-team/ajax/member3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/meet-the-team/ajax/member4.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/meet-the-team/ajax/member5.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/meet-the-team/ajax/member6.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/meet-the-team/ajax/member7.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/meet-the-team/ajax/member8.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/meet-the-team/ajax/member9.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/meet-the-team/css/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/meet-the-team/css/reset.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/meet-the-team/img/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/meet-the-team/img/1big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/meet-the-team/img/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/meet-the-team/img/2big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/meet-the-team/img/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/meet-the-team/img/3big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/meet-the-team/img/4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/meet-the-team/img/4big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/meet-the-team/img/5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/meet-the-team/img/5big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/meet-the-team/img/6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/meet-the-team/img/6big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/meet-the-team/img/7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/meet-the-team/img/7big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/meet-the-team/img/8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/meet-the-team/img/8big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/meet-the-team/img/9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/meet-the-team/img/9big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/meet-the-team/img/big.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/meet-the-team/img/small.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/meet-the-team/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/cbp-plugin/templates/meet-the-team/js/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/counter/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/counter/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/counter/counterup.jquery.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/counter/demo/demo.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/counter/jquery.counterup.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/counter/jquery.counterup.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/counter/waypoints.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/counter/waypoints.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/font-awesome/css/font-awesome.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/font-awesome/css/font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/font-awesome/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/font-awesome/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/font-awesome/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/font-awesome/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/font-awesome/less/bordered-pulled.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/font-awesome/less/core.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/font-awesome/less/fixed-width.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/font-awesome/less/font-awesome.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/font-awesome/less/icons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/font-awesome/less/larger.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/font-awesome/less/list.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/font-awesome/less/mixins.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/font-awesome/less/path.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/font-awesome/less/rotated-flipped.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/font-awesome/less/spinning.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/font-awesome/less/stacked.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/font-awesome/less/variables.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/font-awesome/scss/_bordered-pulled.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/font-awesome/scss/_core.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/font-awesome/scss/_fixed-width.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/font-awesome/scss/_icons.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/font-awesome/scss/_larger.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/font-awesome/scss/_list.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/font-awesome/scss/_mixins.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/font-awesome/scss/_path.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/font-awesome/scss/_rotated-flipped.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/font-awesome/scss/_spinning.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/font-awesome/scss/_stacked.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/font-awesome/scss/_variables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/font-awesome/scss/font-awesome.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/gmap/gmap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/html5shiv.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/jquery-1.11.1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/jquery-1.11.1.min.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/jquery-migrate-1.2.1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/jquery.easing.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/jquery.mixitup.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/jquery.parallax.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/line-icons/License.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/line-icons/Readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/line-icons/fonts/Simple-Line-Icons.dev.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/line-icons/fonts/Simple-Line-Icons.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/line-icons/fonts/Simple-Line-Icons.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/line-icons/fonts/Simple-Line-Icons.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/line-icons/fonts/Simple-Line-Icons.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/line-icons/icons-lte-ie7.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/line-icons/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/line-icons/line-icons.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/line-icons/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/modernizr.custom.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/assets/css/bootstrapTheme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/assets/css/common_classes.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/assets/css/custom.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/assets/css/responsive.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/assets/ico/apple-touch-icon-114-precomposed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/assets/ico/apple-touch-icon-144-precomposed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/assets/ico/apple-touch-icon-57-precomposed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/assets/ico/apple-touch-icon-72-precomposed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/assets/ico/favicon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/assets/img/AjaxLoader.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/assets/img/demo-slides/controls.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/assets/img/demo-slides/css3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/assets/img/demo-slides/feather.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/assets/img/demo-slides/grab.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/assets/img/demo-slides/modern.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/assets/img/demo-slides/multi.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/assets/img/demo-slides/responsive.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/assets/img/demo-slides/tons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/assets/img/demo-slides/touch.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/assets/img/demo-slides/zombie.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/assets/img/glyphicons-halflings-green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/assets/img/glyphicons-halflings-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/assets/img/glyphicons-halflings.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/assets/img/owl-logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/assets/js/application.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/assets/js/bootstrap-collapse.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/assets/js/bootstrap-tab.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/assets/js/bootstrap-transition.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/assets/js/google-code-prettify/prettify.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/assets/js/google-code-prettify/prettify.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/assets/js/google-code-prettify/run_prettify.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/assets/js/jquery-1.9.1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/changelog.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/demos/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/demos/assets/fullimage1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/demos/assets/fullimage2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/demos/assets/fullimage3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/demos/assets/fullimage4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/demos/assets/fullimage5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/demos/assets/fullimage6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/demos/assets/fullimage7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/demos/assets/owl1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/demos/assets/owl2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/demos/assets/owl3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/demos/assets/owl4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/demos/assets/owl5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/demos/assets/owl6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/demos/assets/owl7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/demos/assets/owl8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/demos/autoHeight.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/demos/click.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/demos/custom.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/demos/customJson.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/demos/full.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/demos/images.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/demos/itemsCustom.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/demos/json.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/demos/json/customData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/demos/json/data.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/demos/lazyLoad.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/demos/manipulations.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/demos/navOnTop.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/demos/navOnTop2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/demos/one.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/demos/owlStatus.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/demos/progressBar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/demos/randomOrder.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/demos/scaleup.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/demos/sync.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/demos/transitions.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/link.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/owl-carousel/AjaxLoader.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/owl-carousel/grabbing.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/owl-carousel/owl.carousel.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/owl-carousel/owl.carousel.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/owl-carousel/owl.carousel.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/owl-carousel/owl-carousel/owl.theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/pace/pace-flash.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/pace/pace.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/respond.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/documentation/assets/css/bootstrap-responsive.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/documentation/assets/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/documentation/assets/css/documenter_style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/documentation/assets/images/image_1.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/documentation/assets/images/image_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/documentation/assets/img/glyphicons-halflings-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/documentation/assets/img/glyphicons-halflings.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/documentation/assets/img/glyphicons/glyphicons_009_magic.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/documentation/assets/img/glyphicons/glyphicons_042_group.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/documentation/assets/img/glyphicons/glyphicons_079_podium.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/documentation/assets/img/glyphicons/glyphicons_082_roundabout.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/documentation/assets/img/glyphicons/glyphicons_155_show_thumbnails.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/documentation/assets/img/glyphicons/glyphicons_163_iphone.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/documentation/assets/img/glyphicons/glyphicons_214_resize_small.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/documentation/assets/img/glyphicons/glyphicons_266_book_open.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/documentation/assets/js/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/documentation/assets/js/bootstrap-min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/documentation/assets/js/google-code-prettify/prettify.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/documentation/assets/js/google-code-prettify/prettify.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/documentation/assets/js/jquery.easing.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/documentation/assets/js/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/documentation/assets/js/jquery.scrollTo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/documentation/assets/js/scripts.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/documentation/assets/json.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/documentation/css/documenter_style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/documentation/css/img/info.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/documentation/css/img/pre_bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/documentation/css/img/warning.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/documentation/css/shDocumenter.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/documentation/documentation.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/documentation/js/jquery.1.6.4.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/documentation/js/jquery.easing.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/documentation/js/jquery.scrollTo-1.4.2-min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/documentation/js/script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/documentation/js/shBrushCss.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/documentation/js/shBrushJScript.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/documentation/js/shBrushXml.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/documentation/js/shCore.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/01.Sample-Boxed.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/02.Sample-Fullwidth.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/03.Sample-FullScreen.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/04.Sample-FullScreen-Offsets.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/05.Sample-Aligns.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/06.Sample-AlignForce.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/07.Sample-Videos.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/08.Sample-NavigationStyle.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/09.Sample-Api.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/10.B.Sample-LazyLoading Level2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/10.Sample-LazyLoading.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/11.Sample-Shuffle.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/12.Sample-Backgrounds.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/13.Sample-HideCaptions.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/14.Sample-KenBurns.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/15.Sample-VideoBG.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/16.Caption-ShowDown.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/17.Sample-DottedBG.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/18.Sample-NewCaptionEffects.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/Editor-Captions.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/Editor-Transitions.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/css/navstylechange.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/css/noneed.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/editor/assets/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/editor/assets/prebg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/editor/assets/trans_tile.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/editor/assets/trans_tile2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/editor/assets/transparent.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/editor/assets/transparent.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/editor/assets/transtiled.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/editor/editor.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/editor/editor.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/editor/type/fontello.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/editor/type/fontello/fontello-social.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/editor/type/fontello/fontello-social.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/editor/type/fontello/fontello-social.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/editor/type/fontello/fontello-social.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/editor/type/fontello/fontello.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/editor/type/fontello/fontello.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/editor/type/fontello/fontello.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/editor/type/fontello/fontello.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/images/apple.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/images/bg1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/images/bg2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/images/bg3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/images/bg4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/images/clock.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/images/clock2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/images/cloud1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/images/cloud2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/images/cloud3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/images/cycle1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/images/darkblurbg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/images/dummy.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/images/graph.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/images/guy1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/images/guy2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/images/guy3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/images/guy4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/images/guy5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/images/hill1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/images/hill2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/images/hill3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/images/hill4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/images/huge.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/images/icon_photo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/images/imac1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/images/kenburns1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/images/kenburns2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/images/kenburns3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/images/kenburns4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/images/kenburns5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/images/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/images/lupe_imac.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/images/lupe_macbook.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/images/macbook2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/images/newslide2014_1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/images/slidebg1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/images/slidebg1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/images/star.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/images/trans_tile2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/images/transparent.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/images/tree.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/images/video_forest.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/images/videobg1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/images/videoshadow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/images/woman.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/rs-plugin/assets/arrow_large_left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/rs-plugin/assets/arrow_large_right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/rs-plugin/assets/arrow_left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/rs-plugin/assets/arrow_left2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/rs-plugin/assets/arrow_right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/rs-plugin/assets/arrow_right2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/rs-plugin/assets/arrowleft.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/rs-plugin/assets/arrowright.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/rs-plugin/assets/arrows.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/rs-plugin/assets/black50.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/rs-plugin/assets/boxed_bgtile.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/rs-plugin/assets/bullet.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/rs-plugin/assets/bullet_boxed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/rs-plugin/assets/bullets.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/rs-plugin/assets/bullets.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/rs-plugin/assets/bullets2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/rs-plugin/assets/coloredbg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/rs-plugin/assets/grain.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/rs-plugin/assets/gridtile.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/rs-plugin/assets/gridtile_3x3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/rs-plugin/assets/gridtile_3x3_white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/rs-plugin/assets/gridtile_white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/rs-plugin/assets/large_left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/rs-plugin/assets/large_right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/rs-plugin/assets/loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/rs-plugin/assets/loader2.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/rs-plugin/assets/navigdots.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/rs-plugin/assets/navigdots_bgtile.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/rs-plugin/assets/shadow1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/rs-plugin/assets/shadow2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/rs-plugin/assets/shadow3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/rs-plugin/assets/small_arrows.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/rs-plugin/assets/small_left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/rs-plugin/assets/small_left_boxed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/rs-plugin/assets/small_right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/rs-plugin/assets/small_right_boxed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/rs-plugin/assets/timer.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/rs-plugin/assets/timerdot.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/rs-plugin/assets/transparent.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/rs-plugin/assets/white50.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/rs-plugin/css/settings-ie8.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/rs-plugin/css/settings.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/rs-plugin/font/revicons.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/rs-plugin/font/revicons.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/rs-plugin/font/revicons.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/rs-plugin/font/revicons.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/rs-plugin/images/decor_inside.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/rs-plugin/images/decor_inside_white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/rs-plugin/images/decor_testimonial.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/rs-plugin/images/gradient/g30.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/rs-plugin/images/gradient/g40.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/rs-plugin/js/jquery.themepunch.plugins.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/rs-plugin/js/jquery.themepunch.revolution.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/examples-sources/rs-plugin/js/jquery.themepunch.revolution.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/assets/plugins/revolution-slider/release_log.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template_files/One-Page/index.html" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog_full_width.html" afterPath="$PROJECT_DIR$/template_files/blog_full_width.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog_item_option1.html" afterPath="$PROJECT_DIR$/template_files/blog_item_option1.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog_item_option2.html" afterPath="$PROJECT_DIR$/template_files/blog_item_option2.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog_large.html" afterPath="$PROJECT_DIR$/template_files/blog_large.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog_left_sidebar.html" afterPath="$PROJECT_DIR$/template_files/blog_left_sidebar.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog_masonry_3col.html" afterPath="$PROJECT_DIR$/template_files/blog_masonry_3col.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog_medium.html" afterPath="$PROJECT_DIR$/template_files/blog_medium.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog_page.html" afterPath="$PROJECT_DIR$/template_files/blog_page.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog_right_sidebar.html" afterPath="$PROJECT_DIR$/template_files/blog_right_sidebar.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog_timeline.html" afterPath="$PROJECT_DIR$/template_files/blog_timeline.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/feature_accordion_and_tabs.html" afterPath="$PROJECT_DIR$/template_files/feature_accordion_and_tabs.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/feature_box_colored.html" afterPath="$PROJECT_DIR$/template_files/feature_box_colored.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/feature_box_funny.html" afterPath="$PROJECT_DIR$/template_files/feature_box_funny.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/feature_box_general.html" afterPath="$PROJECT_DIR$/template_files/feature_box_general.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/feature_btn_brands.html" afterPath="$PROJECT_DIR$/template_files/feature_btn_brands.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/feature_btn_effects.html" afterPath="$PROJECT_DIR$/template_files/feature_btn_effects.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/feature_btn_general.html" afterPath="$PROJECT_DIR$/template_files/feature_btn_general.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/feature_carousels.html" afterPath="$PROJECT_DIR$/template_files/feature_carousels.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/feature_compo_charts.html" afterPath="$PROJECT_DIR$/template_files/feature_compo_charts.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/feature_compo_labels.html" afterPath="$PROJECT_DIR$/template_files/feature_compo_labels.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/feature_compo_media.html" afterPath="$PROJECT_DIR$/template_files/feature_compo_media.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/feature_compo_messages.html" afterPath="$PROJECT_DIR$/template_files/feature_compo_messages.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/feature_compo_pagination.html" afterPath="$PROJECT_DIR$/template_files/feature_compo_pagination.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/feature_compo_panels.html" afterPath="$PROJECT_DIR$/template_files/feature_compo_panels.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/feature_compo_progress_bars.html" afterPath="$PROJECT_DIR$/template_files/feature_compo_progress_bars.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/feature_form_advanced.html" afterPath="$PROJECT_DIR$/template_files/feature_form_advanced.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/feature_form_general.html" afterPath="$PROJECT_DIR$/template_files/feature_form_general.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/feature_form_general1.html" afterPath="$PROJECT_DIR$/template_files/feature_form_general1.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/feature_form_layouts.html" afterPath="$PROJECT_DIR$/template_files/feature_form_layouts.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/feature_form_layouts_advanced.html" afterPath="$PROJECT_DIR$/template_files/feature_form_layouts_advanced.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/feature_form_modals.html" afterPath="$PROJECT_DIR$/template_files/feature_form_modals.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/feature_form_sliders.html" afterPath="$PROJECT_DIR$/template_files/feature_form_sliders.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/feature_form_states.html" afterPath="$PROJECT_DIR$/template_files/feature_form_states.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/feature_icon_fa.html" afterPath="$PROJECT_DIR$/template_files/feature_icon_fa.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/feature_icon_general.html" afterPath="$PROJECT_DIR$/template_files/feature_icon_general.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/feature_icon_glyph.html" afterPath="$PROJECT_DIR$/template_files/feature_icon_glyph.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/feature_icon_line.html" afterPath="$PROJECT_DIR$/template_files/feature_icon_line.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/feature_maps_google.html" afterPath="$PROJECT_DIR$/template_files/feature_maps_google.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/feature_maps_vector.html" afterPath="$PROJECT_DIR$/template_files/feature_maps_vector.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/feature_table_general.html" afterPath="$PROJECT_DIR$/template_files/feature_table_general.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/feature_thumbails.html" afterPath="$PROJECT_DIR$/template_files/feature_thumbails.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/feature_timeline1.html" afterPath="$PROJECT_DIR$/template_files/feature_timeline1.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/feature_timeline2.html" afterPath="$PROJECT_DIR$/template_files/feature_timeline2.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/feature_typo_blockquote.html" afterPath="$PROJECT_DIR$/template_files/feature_typo_blockquote.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/feature_typo_boxshadows.html" afterPath="$PROJECT_DIR$/template_files/feature_typo_boxshadows.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/feature_typo_dividers.html" afterPath="$PROJECT_DIR$/template_files/feature_typo_dividers.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/feature_typo_general.html" afterPath="$PROJECT_DIR$/template_files/feature_typo_general.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/feature_typo_grid.html" afterPath="$PROJECT_DIR$/template_files/feature_typo_grid.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/feature_typo_headings.html" afterPath="$PROJECT_DIR$/template_files/feature_typo_headings.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/feature_typo_tagline_boxes.html" afterPath="$PROJECT_DIR$/template_files/feature_typo_tagline_boxes.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/feature_typo_testimonials.html" afterPath="$PROJECT_DIR$/template_files/feature_typo_testimonials.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/index-holding.html" afterPath="$PROJECT_DIR$/template_files/index-holding.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/index-original.html" afterPath="$PROJECT_DIR$/template_files/index-original.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/index_test.html" afterPath="$PROJECT_DIR$/template_files/index_test.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/page_2_columns_left.html" afterPath="$PROJECT_DIR$/template_files/page_2_columns_left.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/page_2_columns_right.html" afterPath="$PROJECT_DIR$/template_files/page_2_columns_right.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/page_3_columns.html" afterPath="$PROJECT_DIR$/template_files/page_3_columns.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/page_404_error.html" afterPath="$PROJECT_DIR$/template_files/page_404_error.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/page_404_error1.html" afterPath="$PROJECT_DIR$/template_files/page_404_error1.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/page_404_error2.html" afterPath="$PROJECT_DIR$/template_files/page_404_error2.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/page_404_error3.html" afterPath="$PROJECT_DIR$/template_files/page_404_error3.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/page_about.html" afterPath="$PROJECT_DIR$/template_files/page_about.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/page_about1.html" afterPath="$PROJECT_DIR$/template_files/page_about1.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/page_about_me.html" afterPath="$PROJECT_DIR$/template_files/page_about_me.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/page_about_our_team.html" afterPath="$PROJECT_DIR$/template_files/page_about_our_team.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/page_clients.html" afterPath="$PROJECT_DIR$/template_files/page_clients.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/page_coming_soon.html" afterPath="$PROJECT_DIR$/template_files/page_coming_soon.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/page_contact1.html" afterPath="$PROJECT_DIR$/template_files/page_contact1.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/page_contact2.html" afterPath="$PROJECT_DIR$/template_files/page_contact2.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/page_contact3.html" afterPath="$PROJECT_DIR$/template_files/page_contact3.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/page_faq.html" afterPath="$PROJECT_DIR$/template_files/page_faq.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/page_faq1.html" afterPath="$PROJECT_DIR$/template_files/page_faq1.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/page_funny_boxes.html" afterPath="$PROJECT_DIR$/template_files/page_funny_boxes.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/page_gallery.html" afterPath="$PROJECT_DIR$/template_files/page_gallery.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/page_home1.html" afterPath="$PROJECT_DIR$/template_files/page_home1.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/page_home10.html" afterPath="$PROJECT_DIR$/template_files/page_home10.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/page_home11.html" afterPath="$PROJECT_DIR$/template_files/page_home11.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/page_home2.html" afterPath="$PROJECT_DIR$/template_files/page_home2.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/page_home3.html" afterPath="$PROJECT_DIR$/template_files/page_home3.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/page_home4.html" afterPath="$PROJECT_DIR$/template_files/page_home4.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/page_home5.html" afterPath="$PROJECT_DIR$/template_files/page_home5.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/page_home6.html" afterPath="$PROJECT_DIR$/template_files/page_home6.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/page_home7.html" afterPath="$PROJECT_DIR$/template_files/page_home7.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/page_home8.html" afterPath="$PROJECT_DIR$/template_files/page_home8.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/page_home9.html" afterPath="$PROJECT_DIR$/template_files/page_home9.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/page_invoice.html" afterPath="$PROJECT_DIR$/template_files/page_invoice.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/page_jobs.html" afterPath="$PROJECT_DIR$/template_files/page_jobs.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/page_jobs_inner.html" afterPath="$PROJECT_DIR$/template_files/page_jobs_inner.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/page_jobs_inner1.html" afterPath="$PROJECT_DIR$/template_files/page_jobs_inner1.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/page_jobs_inner2.html" afterPath="$PROJECT_DIR$/template_files/page_jobs_inner2.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/page_login.html" afterPath="$PROJECT_DIR$/template_files/page_login.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/page_login1.html" afterPath="$PROJECT_DIR$/template_files/page_login1.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/page_pricing.html" afterPath="$PROJECT_DIR$/template_files/page_pricing.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/page_pricing_flat.html" afterPath="$PROJECT_DIR$/template_files/page_pricing_flat.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/page_pricing_light.html" afterPath="$PROJECT_DIR$/template_files/page_pricing_light.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/page_pricing_mega.html" afterPath="$PROJECT_DIR$/template_files/page_pricing_mega.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/page_privacy.html" afterPath="$PROJECT_DIR$/template_files/page_privacy.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/page_registration.html" afterPath="$PROJECT_DIR$/template_files/page_registration.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/page_registration1.html" afterPath="$PROJECT_DIR$/template_files/page_registration1.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/page_search_inner.html" afterPath="$PROJECT_DIR$/template_files/page_search_inner.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/page_search_table.html" afterPath="$PROJECT_DIR$/template_files/page_search_table.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/page_services.html" afterPath="$PROJECT_DIR$/template_files/page_services.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/page_services1.html" afterPath="$PROJECT_DIR$/template_files/page_services1.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/page_terms.html" afterPath="$PROJECT_DIR$/template_files/page_terms.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio_2_column.html" afterPath="$PROJECT_DIR$/template_files/portfolio_2_column.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio_3_column.html" afterPath="$PROJECT_DIR$/template_files/portfolio_3_column.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio_4_column.html" afterPath="$PROJECT_DIR$/template_files/portfolio_4_column.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio_item.html" afterPath="$PROJECT_DIR$/template_files/portfolio_item.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio_item1.html" afterPath="$PROJECT_DIR$/template_files/portfolio_item1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/footer.html" afterPath="$PROJECT_DIR$/footer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/header.html" afterPath="$PROJECT_DIR$/header.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/customer_services.html" afterPath="$PROJECT_DIR$/customer_services.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="seespeak.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -912,11 +26,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.91433567" vertical-offset="14462" max-vertical-offset="24360">
-              <caret line="986" column="8" selection-start-line="986" selection-start-column="8" selection-end-line="986" selection-end-column="8" />
+            <state vertical-scroll-proportion="118.208336" vertical-offset="14372" max-vertical-offset="24375">
+              <caret line="769" column="28" selection-start-line="769" selection-start-column="28" selection-end-line="769" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -952,10 +66,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="purchase_success.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="purchase_success.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/purchase_success.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="420" max-vertical-offset="2115">
+            <state vertical-scroll-proportion="0.3146853" vertical-offset="240" max-vertical-offset="2115">
               <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
               <folding />
             </state>
@@ -975,11 +89,21 @@
       <file leaf-file-name="customer_services.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/customer_services.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.7916665" vertical-offset="6512" max-vertical-offset="8280">
-              <caret line="445" column="11" selection-start-line="445" selection-start-column="11" selection-end-line="445" selection-end-column="11" />
+            <state vertical-scroll-proportion="-7.4166665" vertical-offset="6557" max-vertical-offset="8340">
+              <caret line="449" column="12" selection-start-line="449" selection-start-column="12" selection-end-line="449" selection-end-column="12" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="purchase_cancel.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/purchase_cancel.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="9.375" vertical-offset="300" max-vertical-offset="1080">
+              <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -1030,9 +154,9 @@
         <option value="$PROJECT_DIR$/legal.html" />
         <option value="$PROJECT_DIR$/footer.html" />
         <option value="$PROJECT_DIR$/header.html" />
+        <option value="$PROJECT_DIR$/testing.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/customer_services.html" />
-        <option value="$PROJECT_DIR$/testing.html" />
       </list>
     </option>
   </component>
@@ -1455,7 +579,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="739" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1475,7 +599,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22617124" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22617124" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1581,6 +705,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="1080">
           <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1791,13 +916,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/purchase_cancel.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0" vertical-offset="75" max-vertical-offset="1080">
-          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="21465" max-vertical-offset="56835">
@@ -1810,14 +928,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="40518" max-vertical-offset="41400">
           <caret line="2613" column="3" selection-start-line="2613" selection-start-column="3" selection-end-line="2613" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/purchase_success.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="671" max-vertical-offset="2115">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1862,20 +972,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="118.208336" vertical-offset="14372" max-vertical-offset="24375">
+          <caret line="769" column="28" selection-start-line="769" selection-start-column="28" selection-end-line="769" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/customer_services.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.7916665" vertical-offset="6512" max-vertical-offset="8280">
-          <caret line="445" column="11" selection-start-line="445" selection-start-column="11" selection-end-line="445" selection-end-column="11" />
+        <state vertical-scroll-proportion="-7.4166665" vertical-offset="6557" max-vertical-offset="8340">
+          <caret line="449" column="12" selection-start-line="449" selection-start-column="12" selection-end-line="449" selection-end-column="12" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/purchase_cancel.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.91433567" vertical-offset="14462" max-vertical-offset="24360">
-          <caret line="986" column="8" selection-start-line="986" selection-start-column="8" selection-end-line="986" selection-end-column="8" />
+        <state vertical-scroll-proportion="9.375" vertical-offset="300" max-vertical-offset="1080">
+          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/purchase_success.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3146853" vertical-offset="240" max-vertical-offset="2115">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
           <folding />
         </state>
       </provider>
