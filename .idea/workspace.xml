@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81829967-21a2-47d7-8d65-278e5db7c932" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/googletagmanager.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/customer_services.html" afterPath="$PROJECT_DIR$/customer_services.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/purchase_cancel.html" afterPath="$PROJECT_DIR$/purchase_cancel.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/purchase_success.html" afterPath="$PROJECT_DIR$/purchase_success.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="seespeak.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -33,9 +28,12 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="40.725525" vertical-offset="675" max-vertical-offset="24210">
-              <caret line="1577" column="53" selection-start-line="1577" selection-start-column="53" selection-end-line="1577" selection-end-column="53" />
-              <folding />
+            <state vertical-scroll-proportion="0.18006992" vertical-offset="12602" max-vertical-offset="24210">
+              <caret line="834" column="6" selection-start-line="834" selection-start-column="6" selection-end-line="834" selection-end-column="6" />
+              <folding>
+                <element signature="n#style#0;n#iframe#0;n#div#2;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#form#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -696,7 +694,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="14415" max-vertical-offset="24480">
           <caret line="961" column="52" selection-start-line="961" selection-start-column="52" selection-end-line="961" selection-end-column="52" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#div#2;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#form#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1017,9 +1018,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="40.725525" vertical-offset="675" max-vertical-offset="24210">
-          <caret line="1577" column="53" selection-start-line="1577" selection-start-column="53" selection-end-line="1577" selection-end-column="53" />
-          <folding />
+        <state vertical-scroll-proportion="0.18006992" vertical-offset="12602" max-vertical-offset="24210">
+          <caret line="834" column="6" selection-start-line="834" selection-start-column="6" selection-end-line="834" selection-end-column="6" />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#div#2;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#form#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
